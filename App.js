@@ -41,7 +41,12 @@ const RestaurantCard = (props) => {
     const {resData} = props
 
     const {
-      cloudinaryImageId, name, cuisines, avgRating, costForTwo, deliveryTime
+      cloudinaryImageId, 
+      name, 
+      cuisines, 
+      avgRating, 
+      costForTwo, 
+      deliveryTime
       } = resData?.data
     
     return (
