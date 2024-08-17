@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-**
+**📃 Basic Tempelate of the project 
+
  * Header
  * - Logo
  * - Nav Items
