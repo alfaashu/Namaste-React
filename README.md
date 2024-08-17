@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **
  * Header
  * - Logo
@@ -30,3 +31,6 @@
     
     export const component = '....'
     import {component} from "path"
+=======
+Food Ordering App
+>>>>>>> 11fbd603279c0fac2b8a65b824ff1e77f08cdd8b
