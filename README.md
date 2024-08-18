@@ -35,3 +35,17 @@
 =======
 Food Ordering App
 >>>>>>> 11fbd603279c0fac2b8a65b824ff1e77f08cdd8b
+
+
+#React Hooks
+
+A normal javascript utility functions
+
+1. useState(): Use to create superpowerful state variables in react. It maintains the state of the variable.
+
+const [reslist, setreslist] = useState([default value]) - State variable
+let reslist - Normal variable
+
+We can only modify the 
+
+2. useEffect()
